@@ -1,2 +1,5 @@
 # TPrmi
-Application Client Serveur RMI
+Application java Client Serveur RMI
+
+
+
